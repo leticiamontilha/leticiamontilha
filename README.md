@@ -1,6 +1,6 @@
 ### Olá, eu sou a Letícia! 👋
 
-🌱 Desenvolvedora Back End com conhecimento em NodeJS, Express, PostgreSQL e TypeScript;
+🌱 Desenvolvedora Back End com conhecimento em Python, Django, NodeJS, Express, PostgreSQL e TypeScript;
 
 🔭 Desenvolvedora Front End com conhecimento em TypeScript, ReactJS, JavaScript6 e CSS;
 
